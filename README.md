@@ -1,7 +1,7 @@
 # Sentiment Analysis on IMDB Reviews using LSTM and Keras
 created by <b>Hans Michael</b>
 
-<b>Sentiment Analysis</b> is a classification of emotions (in this case, positive and negative) on text data using text analysis techniques (i use LSTM).
+<b>Sentiment Analysis</b> is a classification of emotions (in this case, positive and negative) on text data using text analysis techniques (I use LSTM).
 
 <b>LSTM</b> (Long Short-Term Memory) is one of the Recurrent Neural Network (RNN) architecture used in Deep Learning.
 
@@ -10,7 +10,7 @@ created by <b>Hans Michael</b>
 
 ### Dataset
 <hr>
-In this work, i use <a href="https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">50.000 IMDB Movie Reviews from Kaggle</a>.
+In this work, I use <a href="https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">50.000 IMDB Movie Reviews from Kaggle</a>.
 This dataset contains 2 columns, where the first column is the list of movie revies and the second column is the list of sentiments (positive and negative). It is split equally between the positve and negative data.
 
 ### Architecture

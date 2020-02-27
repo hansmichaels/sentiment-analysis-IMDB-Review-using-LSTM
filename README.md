@@ -1,5 +1,5 @@
 # Sentiment Analysis on IMDB Reviews using LSTM and Keras
-created by Hans Michael
+created by <b>Hans Michael</b>
 
 <b>Sentiment Analysis</b> is a classification of emotions (in this case, positive and negative) on text data using text analysis techniques (i use LSTM).
 

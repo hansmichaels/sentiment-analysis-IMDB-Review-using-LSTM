@@ -10,7 +10,7 @@
 ### Dataset
 <hr>
 In this work, I use <a href="https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews">50.000 IMDB Movie Reviews from Kaggle</a>.
-This dataset contains 2 columns, where the first column is the list of movie revies and the second column is the list of sentiments (positive and negative). It is split equally between the positve and negative data.
+This dataset contains 2 columns, where the first column is the list of movie reviews and the second column is the list of sentiments (positive and negative). It is split equally between the positve and negative data.
 
 ### Architecture
 <hr>

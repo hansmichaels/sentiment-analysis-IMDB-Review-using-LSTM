@@ -1,11 +1,10 @@
 # Sentiment Analysis on IMDB Reviews using LSTM and Keras
-created by <b>Hans Michael</b>
 
 <b>Sentiment Analysis</b> is a classification of emotions (in this case, positive and negative) on text data using text analysis techniques (I use LSTM).
 
 <b>LSTM</b> (Long Short-Term Memory) is one of the Recurrent Neural Network (RNN) architecture used in Deep Learning.
 
-<b>Keras</b> is an open-source Python Deep Learning library, that could be running on Tensorflow back-end.
+<b>Keras</b> is an open-source Python Deep Learning library, that could be run on Tensorflow back-end.
 
 
 ### Dataset
